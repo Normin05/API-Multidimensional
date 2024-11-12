@@ -1,0 +1,6 @@
+@CubeApi_HostAddress = http://localhost:5069
+
+GET {{CubeApi_HostAddress}}/TransformToJSON/
+Accept: application/json
+
+###

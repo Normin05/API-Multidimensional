@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5n9wrwiowU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Normin\\Downloads\\CubeApi\\CubeApi\\CubeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.analysisservices.adomdclient\\19.84.10\\microsoft.analysisservices.adomdclient.19.84.10.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.identity.client\\4.61.3\\microsoft.identity.client.4.61.3.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.identity.client.broker\\4.61.3\\microsoft.identity.client.broker.4.61.3.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.identity.client.nativeinterop\\0.16.1\\microsoft.identity.client.nativeinterop.0.16.1.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Normin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
